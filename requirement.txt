@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-python-dotenv
-plotly
-scikit-learn
-google-genai
